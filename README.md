@@ -38,7 +38,7 @@ Follow the interactive prompts to create or select vehicles and perform various 
 
 Watch the complete functionality of the Vehicle Builder CLI demonstrated here:
 
-[[**Walkthrough Video Link (Insert your link here)**]](https://www.youtube.com/watch?v=Cb-P8WC6TTQ)
+[[**Walkthrough Video**]](https://www.youtube.com/watch?v=Cb-P8WC6TTQ)
 
 ## Project Structure
 
